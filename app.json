@@ -1,0 +1,22 @@
+{
+  "name": "TorrentLeechX-BOT",
+  "description": "Telegram/Direct Links to GDrive Uploader Bot",
+  "repository": "https://github.com/JeremiahAbraham/TorrentLeechX",
+  "logo": "https://telegra.ph/file/67ab35c019dbd68d772f9.png",
+  "keywords": ["Telegram", "Google Drive", "uploader", "telegraph"],
+  "env": {
+    "ENV": {
+      "description": "Set it to anything to enable configuration by environment variables.",
+      "value": "ANYTHING"
+    },
+    "BOT_TOKEN": {
+      "description": "Get it from @BotFather"
+    },
+    "APP_ID": {
+      "description": "Your API_ID, Get it from https://my.telegram.org/apps"
+    },
+    "API_HASH": {
+      "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
+    }
+  }
+}
